@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "UIView+JFExtension.h"
+#import "JFUIViewExtension.h"
 #import "JFUITableViewExtension.h"
 #import "JFUITableViewCellExtension.h"
 

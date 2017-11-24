@@ -153,7 +153,6 @@
 		84BC984B1FC7AEC700F9D9BA /* JFBaseProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JFBaseProxy.m; sourceTree = "<group>"; };
 		84BC984C1FC7AEC700F9D9BA /* JFTextFieldProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JFTextFieldProxy.m; sourceTree = "<group>"; };
 		84BC984D1FC7AEC700F9D9BA /* JFCollectionViewProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JFCollectionViewProxy.m; sourceTree = "<group>"; };
-		84CF1D0E1FC7C9590041F75A /* JFUIExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JFUIExtension.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -289,7 +288,6 @@
 		84BC97FC1FC7AEC700F9D9BA /* JFUIExtension */ = {
 			isa = PBXGroup;
 			children = (
-				84CF1D0E1FC7C9590041F75A /* JFUIExtension.h */,
 				84BC97FD1FC7AEC700F9D9BA /* JFUIExtensionExtra */,
 				84BC98041FC7AEC700F9D9BA /* JFUIExtensionBase */,
 				84BC98151FC7AEC700F9D9BA /* JFUIExtensionCore */,
