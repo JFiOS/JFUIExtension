@@ -148,7 +148,7 @@
                 [self setValue:obj forKeyPath:key];
             }
             else {
-                NSLog(@"obj is nil");
+        //        NSLog(@"obj is nil");
             }
         }
         return self;
